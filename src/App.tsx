@@ -31,7 +31,7 @@ function App() {
           </button>
         </p>
         <p>
-          Edit <code>App.tsx</code> and fuck right off.
+          Edit <code>App.tsx</code> and get starterd.
         </p>
         <p>
           <a
